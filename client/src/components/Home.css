@@ -1,0 +1,35 @@
+body{
+     background: linear-gradient(
+            350deg,
+            #171821 20%,
+            #1c1c25 50%,                                                                 
+            #171821 50%,
+            #171821 100%
+        );
+    background: linear-gradient(
+            10deg,
+            #171821 10%,
+            #1c1c25 50%,                                                                 
+            #171821 50%,
+            #171821 100%
+        );
+
+}
+.abc{
+    color:white;
+    background-color: #171821;
+}
+#card{
+    margin: 50px auto;
+    width:40%;
+    color: white;    
+    text-align: left;
+}
+.img{
+    background-image: url(../images/ap.jpg);
+    margin: auto;
+    width:400px;
+    height:500px;
+    border-radius: 30px;
+
+}
